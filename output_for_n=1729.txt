@@ -1,0 +1,56 @@
+
+              Target number  : 1729
+              desired parts  : []
+              Agent's name : agent1
+              Initial population : 0.5 k
+              Initial exploration_rate : 0.10
+              Initial best candidate :
+              [171, 190, 136, 136, 153, 171, 190, 153, 66, 66, 105, 91, 45, 55] 
+              Initial fitness :  999.643
+              
+1-th generation
+ best candidate : [105, 136, 171, 66, 55, 66, 171, 153, 190, 91, 136, 45, 171, 171],  
+                          its fitness : 999.736
+                          its weight : 1727
+                          its reciprocal sum : 38797141/38798760
+                          
+5-th generation
+ best candidate : [171, 45, 55, 105, 66, 153, 190, 66, 171, 136, 210, 136, 105, 120],  
+                          its fitness : 999.985
+                          its weight : 1729
+                          its reciprocal sum : 8953733/8953560
+                          
+73-th generation
+ best candidate : [45, 28, 153, 136, 253, 276, 300, 120, 91, 136, 91, 55, 45],  
+                          its fitness : 999.988
+                          its weight : 1729
+                          its reciprocal sum : 7045145/7045038
+                          
+101-th generation
+ best candidate : [300, 136, 136, 210, 210, 153, 10, 153, 45, 55, 45, 276],  
+                          its fitness : 999.989
+                          its weight : 1729
+                          its reciprocal sum : 70381/70380
+                          
+124-th generation
+ best candidate : [153, 153, 136, 136, 153, 190, 231, 120, 91, 55, 120, 91, 45, 55],  
+                          its fitness : 999.991
+                          its weight : 1729
+                          its reciprocal sum : 2116321/2116296
+                          
+133-th generation
+ best candidate : [15, 136, 1176, 210, 36, 78, 36, 21, 21],  
+                          its fitness : 1000.000
+                          its weight : 1729
+                          its reciprocal sum : 1
+                          
+success!
+
+                      A desired partition is found at 133-th generation
+                      found partition is
+                      [1176, 210, 136, 78, 36, 36, 21, 21, 15]
+                      weight : 1729
+                      reciprocal sum of parts : 1
+                          
+                      
+done.

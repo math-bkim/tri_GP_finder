@@ -1,0 +1,50 @@
+
+              Target number  : 1728
+              desired parts  : []
+              Agent's name : agent1
+              Initial population : 0.5 k
+              Initial exploration_rate : 0.10
+              Initial best candidate :
+              [153, 153, 171, 136, 153, 190, 210, 136, 91, 66, 91, 78, 45, 55] 
+              Initial fitness :  999.087
+              
+1-th generation
+ best candidate : [231, 190, 91, 36, 136, 66, 105, 136, 120, 171, 153, 136, 78, 78],  
+                          its fitness : 999.663
+                          its weight : 1727
+                          its reciprocal sum : 232728259/232792560
+                          
+3-th generation
+ best candidate : [190, 6, 153, 6, 990, 171, 91, 120],  
+                          its fitness : 999.880
+                          its weight : 1727
+                          its reciprocal sum : 8313973/8314020
+                          
+5-th generation
+ best candidate : [6, 6, 153, 990, 210, 153, 105, 105],  
+                          its fitness : 999.919
+                          its weight : 1728
+                          its reciprocal sum : 19633/19635
+                          
+16-th generation
+ best candidate : [276, 66, 136, 120, 105, 210, 210, 105, 91, 78, 78, 120, 55, 78],  
+                          its fitness : 999.999
+                          its weight : 1728
+                          its reciprocal sum : 1105105/1105104
+                          
+52-th generation
+ best candidate : [120, 210, 21, 28, 231, 28, 10, 1035, 45],  
+                          its fitness : 1000.000
+                          its weight : 1728
+                          its reciprocal sum : 1
+                          
+success!
+
+                      A desired partition is found at 52-th generation
+                      found partition is
+                      [1035, 231, 210, 120, 45, 28, 28, 21, 10]
+                      weight : 1728
+                      reciprocal sum of parts : 1
+                          
+                      
+done.
